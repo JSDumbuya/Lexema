@@ -260,8 +260,7 @@ function App() {
   return (
     <div className="App">
 
-      <h1 className="blue-text text-darken-2 center-align">ReqRank</h1>
-      <p style={{ fontSize: '20px' }}> A multi-criteria requirements prioritization tool that considers sentiment, topic popularity, stakeholder preferences, and more to rank functional and non-functional requirements.</p>
+      <h1 className="blue-text text-darken-2 center-align">CaseRank</h1>
 
       <h4>Upload Requirements & Set Prioritization Rules</h4>
       <p>Upload your list of requirements. Add weights to criteria and non-functional requirements to influence prioritization.</p>

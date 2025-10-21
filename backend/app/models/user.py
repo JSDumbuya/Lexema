@@ -1,0 +1,1 @@
+# Represents the IT-person that created the ticket.

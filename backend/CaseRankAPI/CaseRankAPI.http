@@ -1,0 +1,6 @@
+@CaseRankAPI_HostAddress = http://localhost:5058
+
+GET {{CaseRankAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

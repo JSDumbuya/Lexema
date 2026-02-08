@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lexema.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+071accf389fb51283cb2383aae72e9a1ae501b9d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bde3b292127d8cd10e9a065d6a19ad18972e62e5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lexema.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lexema.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

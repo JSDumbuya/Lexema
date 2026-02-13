@@ -1,4 +1,4 @@
-namespace Lexema.Api.Domain.Models;
+namespace Lexema.Domain.Models;
 
 public class Text
 {

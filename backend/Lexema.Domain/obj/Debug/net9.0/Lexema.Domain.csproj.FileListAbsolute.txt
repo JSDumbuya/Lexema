@@ -1,0 +1,5 @@
+/Users/jariasallydumbuya/Desktop/Lexema/backend/Lexema.Domain/obj/Debug/net9.0/Lexema.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jariasallydumbuya/Desktop/Lexema/backend/Lexema.Domain/obj/Debug/net9.0/Lexema.Domain.AssemblyInfoInputs.cache
+/Users/jariasallydumbuya/Desktop/Lexema/backend/Lexema.Domain/obj/Debug/net9.0/Lexema.Domain.AssemblyInfo.cs
+/Users/jariasallydumbuya/Desktop/Lexema/backend/Lexema.Domain/obj/Debug/net9.0/Lexema.Domain.csproj.CoreCompileInputs.cache
+/Users/jariasallydumbuya/Desktop/Lexema/backend/Lexema.Domain/obj/Debug/net9.0/Lexema.Domain.sourcelink.json

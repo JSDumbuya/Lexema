@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net9.0": {
+      "Lexema.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Lexema.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lexema.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Lexema.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Lexema.Domain/Lexema.Domain.csproj",
+      "msbuildProject": "../Lexema.Domain/Lexema.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net9.0": [
+      "Lexema.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/jariasallydumbuya/.nuget/packages/": {}
@@ -32,7 +51,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/jariasallydumbuya/Desktop/Lexema/backend/Lexema.Domain/Lexema.Domain.csproj": {
+              "projectPath": "/Users/jariasallydumbuya/Desktop/Lexema/backend/Lexema.Domain/Lexema.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

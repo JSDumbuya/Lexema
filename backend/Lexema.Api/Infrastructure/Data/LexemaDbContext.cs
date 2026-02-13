@@ -1,1 +1,0 @@
-namespace Lexema.Api.Infrastructure.Data;

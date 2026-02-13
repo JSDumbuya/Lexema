@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Lexema.Domain/1.0.0": {
+        "runtime": {
+          "Lexema.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lexema.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

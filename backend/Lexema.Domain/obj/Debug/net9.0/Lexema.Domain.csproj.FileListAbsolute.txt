@@ -3,3 +3,10 @@
 /Users/jariasallydumbuya/Desktop/Lexema/backend/Lexema.Domain/obj/Debug/net9.0/Lexema.Domain.AssemblyInfo.cs
 /Users/jariasallydumbuya/Desktop/Lexema/backend/Lexema.Domain/obj/Debug/net9.0/Lexema.Domain.csproj.CoreCompileInputs.cache
 /Users/jariasallydumbuya/Desktop/Lexema/backend/Lexema.Domain/obj/Debug/net9.0/Lexema.Domain.sourcelink.json
+/Users/jariasallydumbuya/Desktop/Lexema/backend/Lexema.Domain/bin/Debug/net9.0/Lexema.Domain.deps.json
+/Users/jariasallydumbuya/Desktop/Lexema/backend/Lexema.Domain/bin/Debug/net9.0/Lexema.Domain.dll
+/Users/jariasallydumbuya/Desktop/Lexema/backend/Lexema.Domain/bin/Debug/net9.0/Lexema.Domain.pdb
+/Users/jariasallydumbuya/Desktop/Lexema/backend/Lexema.Domain/obj/Debug/net9.0/Lexema.Domain.dll
+/Users/jariasallydumbuya/Desktop/Lexema/backend/Lexema.Domain/obj/Debug/net9.0/refint/Lexema.Domain.dll
+/Users/jariasallydumbuya/Desktop/Lexema/backend/Lexema.Domain/obj/Debug/net9.0/Lexema.Domain.pdb
+/Users/jariasallydumbuya/Desktop/Lexema/backend/Lexema.Domain/obj/Debug/net9.0/ref/Lexema.Domain.dll

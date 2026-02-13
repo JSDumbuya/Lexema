@@ -1,0 +1,16 @@
+/Users/jariasallydumbuya/Desktop/Lexema/backend/Lexema.Application/bin/Debug/net9.0/Lexema.Application.deps.json
+/Users/jariasallydumbuya/Desktop/Lexema/backend/Lexema.Application/bin/Debug/net9.0/Lexema.Application.dll
+/Users/jariasallydumbuya/Desktop/Lexema/backend/Lexema.Application/bin/Debug/net9.0/Lexema.Application.pdb
+/Users/jariasallydumbuya/Desktop/Lexema/backend/Lexema.Application/bin/Debug/net9.0/Lexema.Domain.dll
+/Users/jariasallydumbuya/Desktop/Lexema/backend/Lexema.Application/bin/Debug/net9.0/Lexema.Domain.pdb
+/Users/jariasallydumbuya/Desktop/Lexema/backend/Lexema.Application/obj/Debug/net9.0/Lexema.Application.csproj.AssemblyReference.cache
+/Users/jariasallydumbuya/Desktop/Lexema/backend/Lexema.Application/obj/Debug/net9.0/Lexema.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jariasallydumbuya/Desktop/Lexema/backend/Lexema.Application/obj/Debug/net9.0/Lexema.Application.AssemblyInfoInputs.cache
+/Users/jariasallydumbuya/Desktop/Lexema/backend/Lexema.Application/obj/Debug/net9.0/Lexema.Application.AssemblyInfo.cs
+/Users/jariasallydumbuya/Desktop/Lexema/backend/Lexema.Application/obj/Debug/net9.0/Lexema.Application.csproj.CoreCompileInputs.cache
+/Users/jariasallydumbuya/Desktop/Lexema/backend/Lexema.Application/obj/Debug/net9.0/Lexema.Application.sourcelink.json
+/Users/jariasallydumbuya/Desktop/Lexema/backend/Lexema.Application/obj/Debug/net9.0/Lexema.A.D633D57D.Up2Date
+/Users/jariasallydumbuya/Desktop/Lexema/backend/Lexema.Application/obj/Debug/net9.0/Lexema.Application.dll
+/Users/jariasallydumbuya/Desktop/Lexema/backend/Lexema.Application/obj/Debug/net9.0/refint/Lexema.Application.dll
+/Users/jariasallydumbuya/Desktop/Lexema/backend/Lexema.Application/obj/Debug/net9.0/Lexema.Application.pdb
+/Users/jariasallydumbuya/Desktop/Lexema/backend/Lexema.Application/obj/Debug/net9.0/ref/Lexema.Application.dll

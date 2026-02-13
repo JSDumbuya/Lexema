@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lexema.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bde3b292127d8cd10e9a065d6a19ad18972e62e5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afd4cb130b9bea14d6ebcf9f0c7c4bfd67e7165f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lexema.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lexema.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

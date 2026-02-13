@@ -1,4 +1,4 @@
-namespace Lexema.Api.Models;
+namespace Lexema.Api.Domain.Models;
 
 public enum Level
 {

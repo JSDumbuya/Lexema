@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lexema.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4363a68e3a95f1dc17d4fc3fafe27aac9265344c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5a451ee9bb029bc2da46de44e125fef5570a614")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lexema.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lexema.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
